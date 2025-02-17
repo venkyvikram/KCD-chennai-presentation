@@ -1,4 +1,6 @@
-# KCD-chennai-presentation
+# KCD-chennai-presentation 
+
+# **Draft (Temp) - Work in Progress**
 
 # Securing Your Kubernetes Ecosystem: A Holistic Approach to Supply Chain and Threat Modeling
 
@@ -35,7 +37,7 @@
   4. Runtime security
   5. Security auditing and logging
 
-Conclusion & Q&A (25-30 minutes) 
+## Conclusion & Q&A (25-30 minutes) 
 
 17. Key Takeaways: Summarize the interconnectedness of supply chain security and threat modeling.
 18. Call to Action: Encourage attendees to assess their Kubernetes security posture holistically, considering both supply chain and other potential threats.
